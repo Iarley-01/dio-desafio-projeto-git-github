@@ -1,0 +1,25 @@
+# Anotações - Comandos básicos do Git
+
+• Iniciar repositório
+ git push
+ 
+• Clonar repositório
+ git clone <url>
+     
+• Conectar repositório local ao remoto
+ git remote add origin <url>
+     
+• Adicionar arquivos
+ git add .
+ 
+• Verificar status do repositório local
+ git status
+ 
+• Criar um commit
+ git commit -m"Mensagem do commit"
+ 
+• Subir alterações e novos arquivos para o repositório remoto
+ git push origin <nome da branch> (pode ser main ou outro nome)
+ 
+• Trazendo alterações feitas remotamente para o repositório local
+ git push origin <nome da branch>
