@@ -1,9 +1,8 @@
 # Principais Media Queries Para Responsividade em CSS
 
-## 📱 Para Telas de Celulares
-`
-@media screen and (max-width: 480px) { }
-`
+## 📱 Para Telas de Celulares:
+    @media screen and (max-width: 480px) { }
+
 ## 📲 Para dispositivos com telas muito pequenas:
     @media screen and (min-width: 481px) and (max-width: 767px) { }
 
