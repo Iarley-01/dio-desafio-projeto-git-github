@@ -10,7 +10,7 @@
     @media screen and (min-width: 768px) and (max-width: 991px) { }
 
 ## 💻 Para Tablets maiores e notebooks
-    @media screen and (min-width: 992px) { }
+    @media screen and (min-width: 992px) and (max-width: 1119) { }
 
 ## 💻 Para Desktops
     @media screen and (min-width: 1200px) and (max-width: 1919px) { }
